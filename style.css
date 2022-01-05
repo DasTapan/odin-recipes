@@ -1,0 +1,19 @@
+body{
+    background-color:#d87093;
+}
+
+h1,
+.para{
+    color: hsl(0, 0%, 96%);
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.list {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, monospace;
+}
